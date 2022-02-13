@@ -1,0 +1,33 @@
+body {
+  background: -webkit-linear-gradient(bottom, #8f3c76, #f6fabd);
+  font-family: "Montserrat", sans-serif;
+}
+
+table {
+  background-color: rgb(252, 255, 213);
+  border-collapse: collapse;
+  font-size: 10pt;
+  border: 1px solid #120d13;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 180px;
+}
+
+.tengah {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+td {
+  padding: 5px;
+  height: 20px;
+}
+
+th {
+  background-color: rgb(63, 4, 45);
+  color: rgb(255, 233, 255);
+  height: 30px;
+}
